@@ -1,0 +1,128 @@
+{
+  "status": true,
+  "data": [
+    {
+      "title": "2018 - 1019",
+      "items": [
+        {
+          "date": "2018 - 1019",
+          "badge": "Professional role",
+
+          "place": "Thecho,Lalitpur",
+          "role": "Bakery Helper",
+          "company": "DBM Bakery",
+          "description": [
+            "Actively engaged in learning day-to-day bakery operations",
+
+            "Assisted in basic preparation of bread and cookies",
+
+            "Learned about ingredients, baking processes, and production flow",
+
+            "Supported cleanliness, organization, and teamwork in the bakery",
+
+            "Demonstrated eagerness to learn and attention to small details"
+          ],
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "2020 - 2021",
+      "items": [
+        {
+          "date": "2020 - 2021",
+          "badge": "Professional role",
+          "place": "Satdobato,Lalitpur",
+          "role": "Bakery Cafe Cashier",
+          "company": "Lalit Bakery Cafe",
+          "description": [
+            "Gained practical exposure to bakery operations and daily workflows",
+
+            "Learned cake preparation techniques, including making cakes inspired by favorite bakery styles",
+
+            "Assisted in café operations when offered the role of Café Cashier by the owner",
+
+            "Handled customer interactions, billing, and basic front-of-house responsibilities",
+
+            "Gained valuable experience in hospitality service, teamwork, and customer handling",
+
+            "Overall experience strengthened adaptability, confidence, and passion for learning"
+          ],
+          "image": ""
+        }
+      ]
+    },
+
+    {
+      "title": "2022 - 2023 ",
+      "items": [
+        {
+          "date": "1st June,2022 - 30th March,2023 ",
+          "badge": "Global Internship",
+          "place": "Jau,Bahrain",
+          "role": "International Hospitality Intern",
+          "company": "JAW Resort & SPA",
+          "description": "",
+          "image": "/images/6.jpeg"
+        }
+      ]
+    },
+    {
+      "title": "2023 - 2024 ",
+      "items": [
+        {
+          "date": "9th Oct,2023 - 13th May,2024",
+          "badge": "Professional role",
+          "place": "Nagarkot,Kavre,Nepal",
+          "role": "F&B Associate",
+          "company": "Kavya Resort & SPA",
+          "description": "",
+          "image": "/images/7.jpeg"
+        }
+      ]
+    },
+    {
+      "title": "2024 ",
+      "items": [
+        {
+          "date": "14th May,2024 - 13th Nov,2024",
+          "badge": "Professional role",
+          "place": "Nagarkot,Kavre,Nepal",
+          "role": "Butler Associate",
+          "company": "Kavya Resort & SPA",
+          "description": "",
+          "image": "/images/8.jpeg"
+        }
+      ]
+    },
+
+    {
+      "title": "2024 - 2025 ",
+      "items": [
+        {
+          "date": "9th Dec,2024 - 18th March,2025",
+          "badge": "Professional role",
+          "place": "Babarmahal,Kathmandu,Nepal",
+          "role": "Shift Incharge /Manager",
+          "company": "Himalayan Java",
+          "description": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "2025 ",
+      "items": [
+        {
+          "date": "19th March,2025 ",
+          "badge": "Professional role",
+          "place": "Mid Baneshwor,Kathmandu,Nepal",
+          "role": "Outlet Manager",
+          "company": "Himalayan Java",
+          "description": "",
+          "image": "/images/9.jpeg"
+        }
+      ]
+    }
+  ]
+}

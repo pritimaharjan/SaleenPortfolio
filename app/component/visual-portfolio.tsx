@@ -1,30 +1,12 @@
 import { Card } from "@/components/ui/card";
+import { data } from "../data/data";
 
 export default function VisualPortfolio() {
-  const data = [
-    {
-      image: "/images/4.jpeg",
-      title: "Certified Bartending Training – Honeywell",
-      subtitle:
-        "Completed professional bartending training focused on beverage preparation, bar operations, and service standards.",
-    },
-    {
-      image: "/images/Lalit.jpeg",
-      title: "Lalit Bakery",
-      subtitle: "Lalit Bakery",
-    },
-    {
-      image: "/images/Kavya.jpeg",
-      title: "Kavya Resort",
-      subtitle: "Kavya Resort",
-    },
-    { image: "/images/JAW.jpeg", title: "making juice in Jaw ", subtitle: "" },
-  ];
   return (
-    <div className="bg-slate-100">
-      <div className="max-w-7xl mx-auto py-20 ">
+    <div className="bg-slate-100 dark:bg-black">
+      <div className="max-w-7xl mx-auto py-32 ">
         <div>
-          <h1 className="text-center">Visual Portfolio</h1>
+          <h1 className="text-center dark:text-white">Visual Portfolio</h1>
         </div>
         <div className="grid grid-cols-1 py-20 sm:grid-cols-2 md:grid-cols-3 gap-5">
           {data.map((item, index) => (

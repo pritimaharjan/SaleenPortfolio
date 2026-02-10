@@ -64,6 +64,15 @@
           "company": "JAW Resort & SPA",
           "description": "",
           "image": "/images/6.jpeg"
+        },
+        {
+          "date": "1st June,2022 - 30th March,2023 ",
+          "badge": "Global Internship",
+          "place": "Jau,Bahrain",
+          "role": "International Hospitality Intern",
+          "company": "JAW Resort & SPA",
+          "description": "",
+          "image": "/images/6.jpeg"
         }
       ]
     },
@@ -76,7 +85,13 @@
           "place": "Nagarkot,Kavre,Nepal",
           "role": "F&B Associate",
           "company": "Kavya Resort & SPA",
-          "description": "",
+          "description": [
+            "Delivered high-quality food and beverage service in a fast-paced hospitality environment.",
+            "Collaborated with kitchen and service teams to ensure smooth daily operations.",
+            "Handled guest requests, feedback, and complaints professionally to enhance customer satisfaction.",
+            "Maintained service standards, cleanliness, and hygiene as per resort policies.",
+            "Developed strong communication, teamwork, time-management, and problem-solving skills."
+          ],
           "image": "/images/7.jpeg"
         }
       ]
@@ -90,7 +105,12 @@
           "place": "Nagarkot,Kavre,Nepal",
           "role": "Butler Associate",
           "company": "Kavya Resort & SPA",
-          "description": "",
+          " description": [
+            "Delivered personalized guest services ensuring a luxury hospitality experience",
+            "Selected and assigned as a personal butler for a high-profile national film actor",
+            "Managed exclusive guest requirements with confidentiality and professionalism",
+            "Coordinated with multiple departments to deliver seamless VIP services"
+          ],
           "image": "/images/8.jpeg"
         }
       ]
@@ -105,13 +125,20 @@
           "place": "Babarmahal,Kathmandu,Nepal",
           "role": "Shift Incharge /Manager",
           "company": "Himalayan Java",
-          "description": "",
+          "description": [
+            "Managed daily shift operations, ensuring smooth workflow and high service quality.",
+            "Supervised and coordinated staff schedules, task assignments, and performance.",
+            "Handled customer concerns and feedback professionally to maintain service excellence.",
+            "Oversaw cash handling, billing processes, and end-of-shift reporting.",
+            "Ensured compliance with company standards, hygiene, and operational policies.",
+            "Strengthened leadership, decision-making, and team management skills in a high-volume service environment."
+          ],
           "image": ""
         }
       ]
     },
     {
-      "title": "2025 ",
+      "title": "2025 - Present",
       "items": [
         {
           "date": "19th March,2025 ",
@@ -119,7 +146,14 @@
           "place": "Mid Baneshwor,Kathmandu,Nepal",
           "role": "Outlet Manager",
           "company": "Himalayan Java",
-          "description": "",
+          "description": [
+            "Oversee end-to-end outlet operations to ensure smooth daily business performance.",
+            "Lead, train, and manage staff to maintain high service quality and team efficiency.",
+            "Monitor sales, inventory, and expenses to meet business targets and reduce operational costs.",
+            "Handle customer feedback, escalations, and service recovery to enhance customer satisfaction.",
+            "Ensure compliance with company policies, hygiene standards, and safety regulations.",
+            "Drive operational improvements through effective planning, leadership, and decision-making."
+          ],
           "image": "/images/9.jpeg"
         }
       ]

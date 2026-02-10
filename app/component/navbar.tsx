@@ -1,4 +1,5 @@
 "use client";
+import { AnimatedThemeToggler } from "@/components/ui/animated-theme-toggler";
 import { cn } from "@/lib/utils";
 import Link from "next/link";
 import { use, useEffect, useState } from "react";
@@ -19,8 +20,8 @@ export default function Navbar() {
       className={cn(
         "fixed top-0  w-full z-50 transition-colors duration-300 ",
         scrolling
-          ? "bg-white shadow-lg text-primary opacity-90"
-          : "bg-transparent text-white",
+          ? "bg-white shadow-lg text-primary opacity-90 dark:bg-card dark:text-white"
+          : "bg-transparent text-white ",
         "flex items-center justify-between px-20 py-6  ",
       )}
     >
@@ -29,21 +30,20 @@ export default function Navbar() {
       </div>
 
       <div className="flex gap-6 text-sm font-medium">
-        <Link href="#about" className="hover:text-gray-300">
+        <Link href="#about" className="hover:text-secondary">
           About Me
         </Link>
-        <Link href="#qualification" className="hover:text-gray-300">
-          Qualification
-        </Link>
-        <Link href="#operational-expertise" className="hover:text-gray-300">
+
+        <Link href="#operational-expertise" className="hover:text-secondary">
           Skills
         </Link>
-        <Link href="#my-journey" className="hover:text-gray-300">
+        <Link href="#my-journey" className="hover:text-secondary">
           Experience
         </Link>
-        <Link href="#contact" className="hover:text-gray-300">
+        <Link href="#contact" className="hover:text-secondary">
           Contact
         </Link>
+        <AnimatedThemeToggler />
       </div>
     </nav>
   );
